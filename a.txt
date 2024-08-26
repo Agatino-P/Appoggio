@@ -1,0 +1,14 @@
+
+    Directory: D:\GitLocalRepository\B64\B64\bin\Debug\net8.0\Encoded
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          26/08/2024    19:55              0 a.txt
+-a---          26/08/2024    19:55        7984360 WinaeroTweaker-1.63.0.0-setup.exe.b64
+-a---          26/08/2024    19:55        1398104 WinaeroTweaker-1.63.0.0-setup.zip.001.b64
+-a---          26/08/2024    19:55        1398104 WinaeroTweaker-1.63.0.0-setup.zip.002.b64
+-a---          26/08/2024    19:55        1398104 WinaeroTweaker-1.63.0.0-setup.zip.003.b64
+-a---          26/08/2024    19:55        1398104 WinaeroTweaker-1.63.0.0-setup.zip.004.b64
+-a---          26/08/2024    19:55        1398104 WinaeroTweaker-1.63.0.0-setup.zip.005.b64
+-a---          26/08/2024    19:55         300188 WinaeroTweaker-1.63.0.0-setup.zip.006.b64
+
